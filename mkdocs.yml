@@ -55,4 +55,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
+  - Welkome bij Staff RQ!: index.md
   - Intakers: intake.md
