@@ -1,12 +1,16 @@
-# Intakers 
+# **Welkom bij de Intakers Takenlijst!**
 
-## Punten
-Deze is special gemaakt voor de personen die intakers zijn. Hier worden alle punten besproken die ook in het gespreken moeten worden getoets.
+**Beste Intakers,**
+
+Welkom bij de Intakers Takenlijst! Dit is jouw roadmap voor succes, gepresenteerd op Github. Hier bieden we een stapsgewijze uitleg van alles wat je moet doen. Je kunt altijd terugkomen om te controleren of je alles hebt gedaan. We zijn hier om je te begeleiden en te ondersteunen bij elke stap van het proces. Laten we samen aan de slag gaan en al je taken succesvol volbrengen!
+
+!!! failure " Let op "
+    Dit is speciaal gemaakt voor de intakers. Andere staff leden die geen intaker hebben hier dus helemaal niks aan. 
 
 ## Verwelkom 
 Verwelkom de speler em stel jezelf even voor. Blijf hierbij zeer beleefd en enthousiast over het feit dat persoon een intake komt doen.
 ## PC-check 
-Laat een keurmeester beginnen met een PC check
+Als persoon vaak schiet (bij een gang zit), of je dat kan zien in de logs, laat dan een pc check uitvoeren als er een keurmeester aanwezig is, die kan je vantevoren in #staff ooc ff oproepen als je een intake gaat doen.
 ## Geef uitleg over de Intake 
 De reden waarom wij over gaan naar whitelisted is omdat de roleplay in FiveM steeds slechter word in openbare servers, dit komt door combat steden die zich roleplay steden noemen waar niet gehandhaafd word op de basis regels waardoor mensen niet weten wat roleplay is.
 
@@ -35,15 +39,16 @@ Als iemand jou vraagt om een ander te beschieten weet jij altijd de reden en bep
 Als wij zien dat je in de stad komt en direct een wapen pakt, zullen wij dit zien als meta gaming / aansluiten op een huidig scenario of combat gedrag, waardoor dus ook je burger rol afgenomen word.
 Als je iemand beschiet omdat hij jullie beschoten heeft zet je roleplay neer, je ript niet enkel zijn/haar wapen en gaat weg, je vermoord degene of ondervraagd hem, en geen domme vragen van waar heb je je wapen vandaan, dat slaat nergens op en zal ook niet meer geaccepteerd worden, als je in het process de mogelijkheid hebt om zijn wapen te rippen en dat mag is dat geen probleem, maar de roleplay heeft hier prioriteit.
 ## Uitleg character 
-Laat de persoon iets over zijn character vertellen en kijk even als dit geloof waardig over komt.
+Laat de persoon iets over zijn character vertellen. Bijvoorbeeld wat gaat de persoon doen in de stad ECT.
+!!! failure " Let op "
+    Dat dit wel geloof waardig overkomt.  
 ## Vragen over de regels
 Ook wil je dat ze zeker zijn van hun zaak en niet steeds bevestiging vragen, doen ze dit wel weten ze blijkbaar zelf niet goed de regels.
 Je geeft ze ook nooit het antwoord als ze het niet weten.
 
-Voorbeeld: NVOL.
-Hierbij moeten ze jou uitleggen wat een regel inhoud, waar het voor staat en enkele voorbeelden geven.
-Staat voor: No Value Of Life, geen waarde hechten aan het leven van de character
-Voorbeeld: Niet meewerken als een wapen op je staat gericht, of opzettelijk zelf moord plegen etc.
+Voorbeeld Powergaming:
+Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
+Voorbeelden: Met gebruik van een visual pack waardoor je door bosjes kan kijken, of iemand opwachten buiten appartement tot die uit de circel komt en daar een wapen op hem richten, de andere speler heeft dan geen kans om zichzelf te verdedigen.
 ## Is persoon content creator, wil hij streamen etc
 Zoja geef je hem de cc afwachting rol, verstrek hem hierbij de volgende informatie:
 
@@ -52,20 +57,22 @@ Binnenkort gaan wij met veel streamers een paar weken lang zoveel mogelijk live,
 Zo kun je een aantal dingen lenen van staff om een roleplay neer te zetten als deze goedgekeurd word, wij verwachten in de stream dan hoogwaardig roleplay kwaliteit en de items worden na de stream weer ingeleverd.
 Meer informatie hierover krijg je via een appart kanaal voor mensen met deze rol.
 ## Admin panal check 
-Doe de admin panal check
+Doe de admin panel check. Mocht je twijffelen of je iemand door laat of niet, dus weet hij alles wel goed maar twijfel je of hij het ook goed uit zal voeren raadpleeg dan ons adminpanel, op basis zijn eerder gemaakte fouten de afgelopen 2 maanden kun je dan alsnog een oordeel trekken
 ## Vrouwen, vragen wat ze willen doen en of ze een bedrijf willen runnen 
 ## Keuring
+Als persoon alle vragen goed beantwoord heeft mag je hem goedkeuren, mocht je twijfelen of zijn er vragen fout keur je hem af, je blijft beleefd en zegt dan ook dat als hij het APV even goed doorneemt het later altidj weer kan proberen.
 ## Toevoegen aan intake kanaal
+Voeg de gegevens toe aan het intake kanaal, per intake die je doet krijg je van ons €2.500,-. Ook is het natuurlijk handig als je een pc check begint om hier zijn discord id in te zoeken om te kijken of hij al eerder een intake gedaan heeft.
 
 # Check-list
-- Verwelkom 
-- PC-check 
-- Geef uitleg over de Intake
-- Uitleg wapen gebruik
-- Uitleg character
-- Vragen over de regels
-- Is persoon content creator, wil hij streamen etc
-- Admin panal check 
-- Vrouwen, vragen wat ze willen doen en of ze een bedrijf willen runnen 
-- Keuring
-- Toevoegen aan intake kanaal
+- [ ] Verwelkom 
+- [ ] PC-check 
+- [ ] Geef uitleg over de Intake
+- [ ] Uitleg wapen gebruik
+- [ ] Uitleg character
+- [ ] Vragen over de regels
+- [ ] Is persoon content creator, wil hij streamen etc
+- [ ] Admin panal check 
+- [ ] Vrouwen, vragen wat ze willen doen en of ze een bedrijf willen runnen 
+- [ ] Keuring
+- [ ] Toevoegen aan intake kanaal
