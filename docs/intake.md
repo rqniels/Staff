@@ -76,3 +76,6 @@ Voeg de gegevens toe aan het intake kanaal, per intake die je doet krijg je van 
 - [ ] Vrouwen, vragen wat ze willen doen en of ze een bedrijf willen runnen 
 - [ ] Keuring
 - [ ] Toevoegen aan intake kanaal
+---------------------
+
+*Dit boek is ontwikkeld door [RQ][15-04 - ✦✦ ] Niels S., in samenwerking met [RQ]Prepix*
