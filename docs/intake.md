@@ -50,10 +50,12 @@ Voorbeeld Powergaming:
 Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
 Voorbeelden: Met gebruik van een visual pack waardoor je door bosjes kan kijken, of iemand opwachten buiten appartement tot die uit de circel komt en daar een wapen op hem richten, de andere speler heeft dan geen kans om zichzelf te verdedigen.
 Dit moet je vragen: +1 Naar keuze uit het apv
-   * NVOL
-   * OOC Gaan
-   * Metagaming
-   * FAILRP
+
+- NVOL
+- OOC Gaan
+- Metagaming
+- FAILRP
+
 ## Is persoon content creator, wil hij streamen etc
 Zoja geef je hem de cc afwachting rol, verstrek hem hierbij de volgende informatie:
 
