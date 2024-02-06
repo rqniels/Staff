@@ -31,13 +31,13 @@ Als je iemand bij de gang neemt doe je dit na een proef periode en kijk je of hi
 ## Uitleg wapen gebruik
 Omdat er veel combat was bij ons in de stad krijgen jullie allemaal een uitleg over het wapen gebruik, mocht men zich niet aan deze regels houden kan dit resulteren in dat je wapen afgepakt word of de toegang tot de server en discord ontnomen word.
 
-Een wapen pak je enkel als je gaat rippen op de locaties waarvoor dit bedoeld is of op basis van roleplay.
-Als mensen aan het schieten zijn ga je daar niet rondhangen, zien wij dat je hier rond blijft rijden en je een wapen pakt of call out geeft als iemand keer op je mikt zal dit gezien worden NVOL en powergaming, je lokt dan zelf uit dat mensen op jou schieten of mikken en is geen reden om hun vervolgens te gaan schieten of rippen.
-Je let goed op wat voor wapen je pakt, een AK pak je niet zomaar, enkel wanneer het echt nodig is, en dat je geen andere wapens hebt is GEEN reden om een AK te pakken,
-In een scenario mogen maximaal 2 AK's per groepering gebruikt worden, maar alleen als dit echt nodig is, een stafflid kan vragen waarom deze gebruikt worden en het als geen geldige reden verklaren wat kan resulteren in het afpakken van je wapen of burger rol.
-Als iemand jou vraagt om een ander te beschieten weet jij altijd de reden en bepaal jij voor jezelf of deze reden goed genoeg is, ongeïnformeerd schieten op iemand is dus ook niet toegestaan.
-Als wij zien dat je in de stad komt en direct een wapen pakt, zullen wij dit zien als meta gaming / aansluiten op een huidig scenario of combat gedrag, waardoor dus ook je burger rol afgenomen word.
-Als je iemand beschiet omdat hij jullie beschoten heeft zet je roleplay neer, je ript niet enkel zijn/haar wapen en gaat weg, je vermoord degene of ondervraagd hem, en geen domme vragen van waar heb je je wapen vandaan, dat slaat nergens op en zal ook niet meer geaccepteerd worden, als je in het process de mogelijkheid hebt om zijn wapen te rippen en dat mag is dat geen probleem, maar de roleplay heeft hier prioriteit.
+1. Een wapen pak je enkel als je gaat rippen op de locaties waarvoor dit bedoeld is of op basis van roleplay.
+2. Als mensen aan het schieten zijn ga je daar niet rondhangen, zien wij dat je hier rond blijft rijden en je een wapen pakt of call out geeft als iemand keer op je mikt zal dit gezien worden NVOL en powergaming, je lokt dan zelf uit dat mensen op jou schieten of mikken en is geen reden om hun vervolgens te gaan schieten of rippen.
+3. Je let goed op wat voor wapen je pakt, een AK pak je niet zomaar, enkel wanneer het echt nodig is, en dat je geen andere wapens hebt is GEEN reden om een AK te pakken,
+4. In een scenario mogen maximaal 2 AK's per groepering gebruikt worden, maar alleen als dit echt nodig is, een stafflid kan vragen waarom deze gebruikt worden en het als geen geldige reden verklaren wat kan resulteren in het afpakken van je wapen of burger rol.
+5. Als iemand jou vraagt om een ander te beschieten weet jij altijd de reden en bepaal jij voor jezelf of deze reden goed genoeg is, ongeïnformeerd schieten op iemand is dus ook niet toegestaan.
+6. Als wij zien dat je in de stad komt en direct een wapen pakt, zullen wij dit zien als meta gaming / aansluiten op een huidig scenario of combat gedrag, waardoor dus ook je burger rol afgenomen word.
+7. Als je iemand beschiet omdat hij jullie beschoten heeft zet je roleplay neer, je ript niet enkel zijn/haar wapen en gaat weg, je vermoord degene of ondervraagd hem, en geen domme vragen van waar heb je je wapen vandaan, dat slaat nergens op en zal ook niet meer geaccepteerd worden, als je in het process de mogelijkheid hebt om zijn wapen te rippen en dat mag is dat geen probleem, maar de roleplay heeft hier prioriteit.
 ## Uitleg character 
 Laat de persoon iets over zijn character vertellen. Bijvoorbeeld wat gaat de persoon doen in de stad ECT.
 !!! failure " Let op "
@@ -49,6 +49,11 @@ Je geeft ze ook nooit het antwoord als ze het niet weten.
 Voorbeeld Powergaming:
 Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
 Voorbeelden: Met gebruik van een visual pack waardoor je door bosjes kan kijken, of iemand opwachten buiten appartement tot die uit de circel komt en daar een wapen op hem richten, de andere speler heeft dan geen kans om zichzelf te verdedigen.
+Dit moet je vragen: +1 Naar keuze uit het apv
+   * NVOL
+   * OOC Gaan
+   * Metagaming
+   * FAILRP
 ## Is persoon content creator, wil hij streamen etc
 Zoja geef je hem de cc afwachting rol, verstrek hem hierbij de volgende informatie:
 
@@ -78,4 +83,4 @@ Voeg de gegevens toe aan het intake kanaal, per intake die je doet krijg je van 
 - [ ] Toevoegen aan intake kanaal
 ---------------------
 
-*Dit boek is ontwikkeld door [RQ][15-04 - ✦✦ ] Niels S., in samenwerking met [RQ]Prepix*
+*Dit boek is ontwikkeld door [RQ][15-03 - ✦✦ ] Niels S., in samenwerking met [RQ]Prepix*
