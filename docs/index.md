@@ -2,7 +2,7 @@
 
 Beste Teamleden,
 
-Een warm welkom aan alle nieuwe en bestaande teamleden! We zijn verheugd om jullie te verwelkomen in onze hechte en dynamische gemeenschap. Samen vormen we een getalenteerd team dat streeft naar succes en samenwerking. Hier zijn enkele belangrijke punten en regels om onze samenwerking soepel te laten verlopen:
+Wij willen u welkom heten aan dit nieuwe bestand. Wij hopen er op dat jullie hier voldoende informatie in kunnen vinden. Ziet u spellings fouten of bepaalde punten die er niet goed in staan mag u een PM sturen naar de maken van dit document. 
 
 ## Algemene Plaatselijke Verordening (APV)
 1. **Vertrouwelijkheid:** Bescherm gevoelige informatie en respecteer de privacy van anderen.
@@ -13,5 +13,8 @@ We geloven in jullie talenten en zijn ervan overtuigd dat we samen geweldige pre
 
 Met vriendelijke groet,
 
-[RQ] PrePix & [RQ] [15-03 - ✦✦ ] Niels S.
+[RQ]PrePix & [RQ][15-03 - ✦✦ ] Niels S.
 
+---------------------
+
+*Dit boek is ontwikkeld door [RQ][15-04 - ✦✦ ] Niels S., in samenwerking met [RQ]Prepix*
