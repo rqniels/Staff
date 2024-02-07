@@ -34,7 +34,7 @@ Omdat er veel combat was bij ons in de stad krijgen jullie allemaal een uitleg o
 1. Een wapen pak je enkel als je gaat rippen op de locaties waarvoor dit bedoeld is of op basis van roleplay.
 2. Als mensen aan het schieten zijn ga je daar niet rondhangen, zien wij dat je hier rond blijft rijden en je een wapen pakt of call out geeft als iemand keer op je mikt zal dit gezien worden NVOL en powergaming, je lokt dan zelf uit dat mensen op jou schieten of mikken en is geen reden om hun vervolgens te gaan schieten of rippen.
 3. Je let goed op wat voor wapen je pakt, een AK pak je niet zomaar, enkel wanneer het echt nodig is, en dat je geen andere wapens hebt is GEEN reden om een AK te pakken,
-4. In een scenario mogen maximaal 2 AK's per groepering gebruikt worden, maar alleen als dit echt nodig is, een stafflid kan vragen waarom deze gebruikt worden en het als geen geldige reden verklaren wat kan resulteren in het afpakken van je wapen of burger rol.
+4. In een scenario mogen maximaal 2 AK's per groepering gebruikt worden, maar alleen als dit echt nodig is, een stafflid kan vragen waarom deze gebruikt worden en als er geen geldige reden gegeven word wat kan resulteren in het afpakken van je wapen of burger rol.
 5. Als iemand jou vraagt om een ander te beschieten weet jij altijd de reden en bepaal jij voor jezelf of deze reden goed genoeg is, ongeïnformeerd schieten op iemand is dus ook niet toegestaan.
 6. Als wij zien dat je in de stad komt en direct een wapen pakt, zullen wij dit zien als meta gaming / aansluiten op een huidig scenario of combat gedrag, waardoor dus ook je burger rol afgenomen word.
 7. Als je iemand beschiet omdat hij jullie beschoten heeft zet je roleplay neer, je ript niet enkel zijn/haar wapen en gaat weg, je vermoord degene of ondervraagd hem, en geen domme vragen van waar heb je je wapen vandaan, dat slaat nergens op en zal ook niet meer geaccepteerd worden, als je in het process de mogelijkheid hebt om zijn wapen te rippen en dat mag is dat geen probleem, maar de roleplay heeft hier prioriteit.
@@ -46,9 +46,11 @@ Laat de persoon iets over zijn character vertellen. Bijvoorbeeld wat gaat de per
 Ook wil je dat ze zeker zijn van hun zaak en niet steeds bevestiging vragen, doen ze dit wel weten ze blijkbaar zelf niet goed de regels.
 Je geeft ze ook nooit het antwoord als ze het niet weten.
 
-Voorbeeld Powergaming:
-Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
-Voorbeelden: Met gebruik van een visual pack waardoor je door bosjes kan kijken, of iemand opwachten buiten appartement tot die uit de circel komt en daar een wapen op hem richten, de andere speler heeft dan geen kans om zichzelf te verdedigen.
+ZEG TEGEN PERSOON: Ik ga je een paar vragen stellen over het APV, dan wil ik graag van jou horen waar het voor staat, en wat het inhoud, en daarna een aantal voorbeelden.
+
+Ik zal het even voordoen bij de regel Powergaming, Powergaming houd in: STUK VAN POWERGAMIN WAT INHOUD
+dat veranderen van : Voorbeeld Powergaming: Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
+
 Dit moet je vragen: +1 Naar keuze uit het apv
 
 - NVOL
