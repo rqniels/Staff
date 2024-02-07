@@ -14,7 +14,7 @@ Als persoon vaak schiet (bij een gang zit), of je dat kan zien in de logs, laat 
 ## Geef uitleg over de Intake 
 De reden waarom wij over gaan naar whitelisted is omdat de roleplay in FiveM steeds slechter word in openbare servers, dit komt door combat steden die zich roleplay steden noemen waar niet gehandhaafd word op de basis regels waardoor mensen niet weten wat roleplay is.
 
-Ook zijn mensen daar niet aan het roleplayen en combatten, iets wat hier niet toegestaan is, wapens mogen enkel gebruikt worden voor een goede reden, vanuit een roleplay scenario dus.
+Ook zijn mensen daar niet aan het roleplayen maar aan het combatten zijn. Iets wat hier niet toegestaan is, wapens mogen enkel gebruikt worden voor een goede reden, vanuit een roleplay scenario dus.
 
 Wij merken dat daarom de lat steeds lager komt te liggen en hebben besloten whitelisted te gaan, mensen moeten dus duidelijk de regels weten en bij het niet naleven van deze regels zal per direct de burger rol verwijderd worden en daarmee de toegang tot de server en onze discord.
 
