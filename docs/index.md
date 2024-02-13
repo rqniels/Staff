@@ -24,6 +24,7 @@ Ook worden dingen zoals Broodje Bug, ik ga een gebedje maken etc niet meer geacc
 Staff ingame aanspreken die met een staffzaak van iemand anders bezig is is dan ook niet toegestaan, dit zal gezien worden als OOC gaan.
 
 Ook zullen er ingame veel dingen veranderen waardoor de roleplay geforceerd word, ga deze roleplay altijd aan en houd het leuk.
+Dingen zoals toxic gedrag en vrouwonvriendelijk gedrag is ook niet toegestaan.
 
 Gang roleplay: zit persoon in een gang vertel dan het volgende.
 Ook zagen we vaak dat mensen gewoon zomaar bij een gang werden aangenomen omdat ze wapens hebben en scenario's neer kunne zetten om te levelen, als we dit zien word dit doorgegeven aan de onderwereld coördinatoren en zal de gang opgeheven worden.
@@ -43,13 +44,12 @@ Laat de persoon iets over zijn character vertellen. Bijvoorbeeld wat gaat de per
 !!! failure " Let op "
     Dat dit wel geloof waardig overkomt.  
 ## Vragen over de regels
-Ook wil je dat ze zeker zijn van hun zaak en niet steeds bevestiging vragen, doen ze dit wel weten ze blijkbaar zelf niet goed de regels.
-Je geeft ze ook nooit het antwoord als ze het niet weten.
+Ook wil je dat ze zeker zijn van hun zaak en niet steeds bevestiging vragen, doen ze dit wel weten ze blijkbaar zelf niet goed de regels. Je geeft ze ook nooit het antwoord als ze het niet weten.
 
 ZEG TEGEN PERSOON: Ik ga je een paar vragen stellen over het APV, dan wil ik graag van jou horen waar het voor staat, en wat het inhoud, en daarna een aantal voorbeelden.
 
-Ik zal het even voordoen bij de regel Powergaming, Powergaming houd in: STUK VAN POWERGAMIN WAT INHOUD
-dat veranderen van : Voorbeeld Powergaming: Powergaming betekend dat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
+Ik zal het even voordoen bij de regel Powergaming, Powergaming houd indat je systematisch of apv technisch een oneerlijk voordeel naar jezelf toe trekt.
+Voorbeelden hiervan zijn: Een NVE pack hebben waardoor je door bosjes heen kan kijken waar iemand zit, of iemand buiten een appartement opwachten en direct een wapen op hem zetten, diegene heeft dan niet de kans om zichzelf te verdedigen.
 
 Dit moet je vragen: +1 Naar keuze uit het apv
 
