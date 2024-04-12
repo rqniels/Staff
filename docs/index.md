@@ -1,4 +1,4 @@
-# **Welkom bij de Intakers Takenlijst!**
+**Welkom bij de Intakers Takenlijst!**
 
 **Beste Intakers,**
 
@@ -87,4 +87,4 @@ Voeg de gegevens toe aan het intake kanaal, per intake die je doet krijg je van 
 - [ ] Toevoegen aan intake kanaal
 ---------------------
 
-*Dit boek is ontwikkeld door [RQ][15-03 - ✦✦ ] Niels S., in samenwerking met [RQ]Prepix*
+*Dit boek is ontwikkeld door [RQ]Niels S., in samenwerking met [RQ]Prepix*
