@@ -57,5 +57,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-- Nieuwe Apv regles Nog niet af: index.md
- - APV verbetering wat bij pre ligt: intake.md
+  - Nieuwe Apv regles Nog niet af: -index.md
+     - APV verbetering wat bij pre ligt: -intake.md
