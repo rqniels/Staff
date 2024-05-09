@@ -1,4 +1,4 @@
-site_name: Staff dienst boek
+site_name: APV Realistiq 
 copyright: rqniels • © alle rechten voorbehouden | 2023
 
 
@@ -57,10 +57,10 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-- Apv:
+- Algemeen APV:
   - Nieuwe Apv regles Nog niet af: index.md
   - APV verbetering wat bij pre ligt: intake.md
-- politie:
+- politie APV:
   - Politie APV: Politie.md
-- Crimineel: 
+- Crimineel APV: 
   - Crimineel APV: Crimineel.md
