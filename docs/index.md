@@ -1,6 +1,6 @@
-## Nieuwe Regels Voorbeeld. 
+# Nieuwe Regels Voorbeeld. 
 
-# Schieten met Ak
+## Schieten met Ak
 1. Per sanario mogen er maximaal 2 grote ak's per groep worden gebruikt. 
 - Regle die beschreven staad in lid in heeft de volgde straf bepaling
   * 1 Ste keer -  Warn. 
