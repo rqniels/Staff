@@ -7,7 +7,9 @@ theme:
   name: material
   features:
     - toc.integrate 
-
+    - navigation.tabs
+    - navigation.tabs.sticky
+  
   palette:
     - scheme: default
       toggle:
@@ -55,5 +57,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Welkome bij Staff RQ!: index.md
-  - Intakers: intake.md
+- Nieuwe Apv regles Nog niet af: index.md
+ - APV verbetering wat bij pre ligt: intake.md
