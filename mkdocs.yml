@@ -54,6 +54,27 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+theme:
+  name: material
+#   features:
+#     - navigation.tabs
+#     - navigation.path
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  favicon: https://i.imgur.com/2AREa4C.png
+  logo: https://i.imgur.com/2AREa4C.png
+  custom_dir: docs/overrides
+  language: nl
+  extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - javascripts/tables.js
 nav:
   - Welkome bij Staff RQ!: index.md
   - Intakers: intake.md
