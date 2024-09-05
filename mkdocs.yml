@@ -1,8 +1,5 @@
 site_name: APV Realistiq 
-copyright: rqniels • © alle rechten voorbehouden | 2023
-
-plugins:
-  - blog
+copyright: rqniels • © alle rechten voorbehouden | 2024
 
 theme:
   language: nl
@@ -62,6 +59,7 @@ nav:
   - index.md
   - intake.md
   - Politie.md 
+  - Links.md
 
     
   
