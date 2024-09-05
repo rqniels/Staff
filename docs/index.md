@@ -1,8 +1,12 @@
-# Nieuwe Regels Voorbeeld. 
+# Mededelingen
 
-## Schieten met Ak
-1. Per sanario mogen er maximaal 2 grote ak's per groep worden gebruikt. 
-  - Regel die beschreven staad in lid in heeft de volgde straf bepaling
-     * 1 Ste keer -  Warn. 
-     * 2e keer - Wapen inleveren + Warn 
-     * 3e keer - Wapen inleveren + 3 dagen ban 
+## **Mededeling 1**
+Welkom binnen het staffteam van RQ
+
+Hierin vind je alle informatie die je nodig hebt!
+
+Heb je vragen op of aanmerking dan horen wij dit graag van jullie!
+
+Met vriendelijke groeten,
+
+ Management. 

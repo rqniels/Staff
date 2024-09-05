@@ -59,8 +59,9 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  -crimineel.md 
-  - Blog:
-    - blog/index.md
+  - index.md
+  - intake.md
+  - Politie.md 
+
     
   
