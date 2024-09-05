@@ -1,2 +1,2 @@
 # Staff
-Alle informatie over Staff 
+Alle informatie voor Staff 
