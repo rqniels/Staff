@@ -1,4 +1,4 @@
-site_name: APV Realistiq 
+site_name: RQ Staffteam boek
 copyright: rqniels • © alle rechten voorbehouden | 2024
 
 theme:
@@ -56,10 +56,10 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - index.md
-  - intake.md
-  - Politie.md 
-  - Links.md
+  - Mededelingen: index.md
+  - Staff Informatie: intake.md
+  - Bij wie moet ik zijn?: Politie.md 
+  - Belijkerijke Links: Links.md
 
     
   
