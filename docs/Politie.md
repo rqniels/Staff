@@ -1,6 +1,9 @@
 # Bij wie moet ik zijn?
 
-**Omdat het vaak onduidelijk is bij wie jullie moeten zijn voor bepaalde zaken hier even alles op een rijtje:**
+???+ Info
+
+    __Omdat het vaak onduidelijk is bij wie jullie moeten zijn voor bepaalde zaken hier even alles op een rijtje__
+
 
 ## **Beheer**
 
