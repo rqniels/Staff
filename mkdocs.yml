@@ -1,6 +1,8 @@
 site_name: APV Realistiq 
 copyright: rqniels • © alle rechten voorbehouden | 2023
 
+plugins:
+  - blog
 
 theme:
   language: nl
@@ -57,10 +59,8 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-- Algemeen APV:
-  - Nieuwe Apv regles Nog niet af: index.md
-  - APV verbetering wat bij pre ligt: intake.md
-- politie APV:
-  - Politie APV: Politie.md
-- Crimineel APV: 
-  - Crimineel APV: Crimineel.md
+  -crimineel.md 
+  - Blog:
+    - blog/index.md
+    
+  
