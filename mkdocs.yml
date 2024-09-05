@@ -7,7 +7,7 @@ theme:
   features:
     - toc.integrate 
     - navigation.tabs
-    - navigation.tabs.sticky
+    
   
   palette:
     - scheme: default
